@@ -1,0 +1,2 @@
+# SmartDeviceSDK
+android device SDK
